@@ -4,7 +4,7 @@ A repo to contain all the codes for the season of codes for summer of 2022 inclu
 
 ## Files Present
 
-### Pix2Pix_for_Cartoonizing_Images
+#### Pix2Pix_for_Cartoonizing_Images
 
 This is the final implementation of my SoC Project "Learn To Cartoonize".
 * Used Pix2Pix gan for mapping real images to cartoon images
@@ -13,7 +13,7 @@ This is the final implementation of my SoC Project "Learn To Cartoonize".
 
 #### Linear Regression(Gradient Descent)
 
-the code where we implemented linear regression using Gradient Descent
+The code where we implemented linear regression using Gradient Descent
 * This file can easily model multiregression model.
 * used numpy, seaborn and matplotlib for data manipulation and visualization respectively
 
@@ -28,7 +28,7 @@ This  is used to learn and implement basic function and methods of Pytorch librr
 
 
 
-### DCGAN's Implementations
+#### DCGAN's Implementations
 
 This is used to implement Vanilla DCGAN model to generate Anmie Faces
 * The model architecture is similar to that was in the DCGAN'S paper
